@@ -4,7 +4,7 @@ Taller de Docker
 dockerfile-tarea-1
 ---------
 
-Dentro de esta carpeta encontraran una simple aplicacion escrita en NodeJS, y dentro del archivo READNE encontraran
+Dentro de esta carpeta encontraran una simple aplicacion escrita en NodeJS, y dentro del archivo README encontraran
 las instrucciones especificadas por el desarrollador de la aplicacion, para que puedan proceder a Dockerizar la misma.
 
 El objetivo de esta tarea es entonces :
